@@ -1,28 +1,72 @@
 {
-    "products": [
-        {
-            "productTitle":"Ruby Organics Foundation" ,
-            "productUrl":"https://amzn.to/391OMo2"
-        },
-        {
-            "productTitle":"Ruby Organics Foundation" ,
-            "productUrl":"https://amzn.to/391OMo2"
-        },
-        {
-            "productTitle":"Ruby Organics Foundation" ,
-            "productUrl":"https://amzn.to/391OMo2"
-        },
-        {
-            "productTitle":"Ruby Organics Foundation" ,
-            "productUrl":"https://amzn.to/391OMo2"
-        },
-        {
-            "productTitle":"Ruby Organics Foundation" ,
-            "productUrl":"https://amzn.to/391OMo2"
-        },
-        {
-            "productTitle":"Ruby Organics Foundation" ,
-            "productUrl":"https://amzn.to/391OMo2"
-        }
-    ]
+  "products": [
+    {
+      "productTitle": "Ruby Organics Foundation",
+      "productUrl": "https://amzn.to/391OMo2"
+    },
+    {
+      "productTitle": "Just Herbs Foundation cum BB Cream",
+      "productUrl": "https://amzn.to/3hh7VWO"
+    },
+    {
+      "productTitle": "Cold Pressed Olive oil as primer",
+      "productUrl": "https://amzn.to/37KUuvm"
+    },
+    {
+      "productTitle": "Cold Pressed Argan Oil as Primer",
+      "productUrl": "https://amzn.to/38AvuWF"
+    },
+    {
+      "productTitle": "Cold Pressed Sesame oil as Primer",
+      "productUrl": "https://amzn.to/3nJgV9L"
+    },
+    {
+      "productTitle": "Pure Aloe vera gel (Primer for oily skin)",
+      "productUrl": "https://amzn.to/3hfG7Ce"
+    },
+    {
+      "productTitle": "Soultree Mascara (Black)",
+      "productUrl": "https://amzn.to/2KWYHmt"
+    },
+    {
+      "productTitle": "Soultree Mascara (Brown)",
+      "productUrl": "https://amzn.to/3hfPQbG"
+    },
+    {
+      "productTitle": "Spoolie Brush",
+      "productUrl": "https://amzn.to/37OISaC"
+    },
+    {
+      "productTitle": "Daughter Earth Cheek & Lip Tints",
+      "productUrl": "https://amzn.to/34KXgi6"
+    },
+    {
+      "productTitle": "Bloom Baths Cheek & Lip tints",
+      "productUrl": "https://www.bloombaths.com/search-res"
+    },
+    {
+      "productTitle": "Soultree Kajal",
+      "productUrl": "https://amzn.to/34HAMPb"
+    },
+    {
+      "productTitle": "Santulan Kajal",
+      "productUrl": "https://amzn.to/3hfsF1p"
+    },
+    {
+      "productTitle": "Ruby's Organics Eyeliner",
+      "productUrl": "https://amzn.to/2WJzlLD"
+    },
+    {
+      "productTitle": "Ruby's Organics Lipstick",
+      "productUrl": "https://amzn.to/3poP67a"
+    },
+    {
+      "productTitle": "Just herbs Lipstick",
+      "productUrl": "https://amzn.to/3aFtjE7"
+    },
+    {
+      "productTitle": "Soultree Lipstick",
+      "productUrl": "https://amzn.to/3pn59lJ"
+    }
+  ]
 }
