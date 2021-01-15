@@ -22,3 +22,35 @@
     }
   ]
 }
+
+"Cast Iron Kadhai",
+"Cardamom",
+"Cinnamon Sticks",
+"Aroma Oil Burner",
+"Aroma Oil Burner (option 2)",
+"Aroma Oil Burner (option 3)",
+"Essential oils (Set 1)",
+"Essential oils (Set 2)",
+"Essential oils (Set 3)",
+"Diary (option 1)",
+"Diary (option 2)",
+"Diary (option 3)",
+"Book (If Truth be Told by Om Swami)",
+"Tooth Powder",
+"Sesame oil",
+"Copper tongue cleaner",
+"Copper tongue cleaner 2",
+"Desi Cow Ghee",
+"Meditation mat (option 1)",
+"Meditation mat (option 2)"
+
+
+Meditation mat (option 1)
+Meditation mat (option 2)
+Ashwagandha Powder
+Shatavari Powder
+Brahma Rasayana - https://amzn.to/38Kf9zZ
+Ashwagandha Lehya Rasayana - https://amzn.to/3qkFfzJ
+Giloy Juice - https://amzn.to/2XPhzHf
+Jaggery Powder
+Thread Mishri
